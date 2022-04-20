@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Бронирование билетов</string>
+    <string name="title">Бронировщик</string>
+    <string name="register_btn">Регестрация</string>
+    <string name="login_btn">Войти</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="age">Возраст</string>
+    <string name="add">Зарегестрировться</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="event">Событие</string>
+    <string name="location">Локация</string>
+    <string name="begin">Начало</string>
+</resources>
